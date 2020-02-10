@@ -13,5 +13,5 @@ Please install Python 3.xx version
 Conda Environment <br>
 launch Anaconda Prompt <br>
 ```
-$ conda create --name robvis python=3.7 matplolib numpy
+$ conda create --name robvis python=3.7 matplotlib numpy
 ```
