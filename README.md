@@ -15,3 +15,5 @@ launch Anaconda Prompt <br>
 ```
 $ conda create --name robvis python=3.7 matplotlib numpy
 ```
+
+Since today's lecture, please run the codes on RV_PyAprilTag environment. 
